@@ -1,0 +1,69 @@
+.border{
+    background-color: blanchedalmond;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.heading-1{
+    font-size: 15px;
+}
+
+span{
+    font-size: 25px;
+    color: fuchsia;
+}
+
+.image-1{
+    margin-left: 10px;
+    width: 200px;
+}
+
+.image-2{
+    width: 150px;
+}
+
+.image-3{
+    width: 150px;
+}
+
+.image-4{
+    width: 150px;
+}
+
+.lorem{
+    margin-left: 10px;
+}
+
+.image-5{
+    vertical-align: middle;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.input{
+    height: 50px;
+    width: 400px;;
+    border-radius: 15%;
+}
+
+.image-6{
+    vertical-align: middle;
+    width: 200px;
+    margin-right: 10px;
+}
+
+.secondparagraph{
+    font-size: 15px;
+    margin-left: 150px;
+}
+
+.thirdparagraph{
+    font-size: 15px;
+    margin-left: 150px;
+}
+
+
+
+.put:hover{
+    background-color:lavender;
+}
